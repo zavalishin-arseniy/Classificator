@@ -1,0 +1,2 @@
+C:\Users\ALT\Documents\АДЗ\ProbaPera\obj\Debug\ProbaPera.csprojAssemblyReference.cache
+C:\Users\ALT\Documents\АДЗ\ProbaPera\obj\Debug\ProbaPera.csproj.CoreCompileInputs.cache
